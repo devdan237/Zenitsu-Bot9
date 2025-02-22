@@ -4,7 +4,7 @@
 
 <p align="center">
 
-Zenitsu-Bot-V9 Multi Device is a automated whatsapp bot developed by <a href="https://youtube.com/@dreamguydeepak" target="_blank">Deepak</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
+RUOK V1.0 Multi Device is a automated whatsapp bot developed by <a href="https://youtube.com/@devdan237?si=co44hCBV0-Vs8-CN" target="_blank">DevDan237</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
 
 </p>
 
